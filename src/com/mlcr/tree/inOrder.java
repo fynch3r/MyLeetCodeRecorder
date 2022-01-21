@@ -50,7 +50,7 @@ public class inOrder {
 
     // 迭代
     public List<Integer> inOrderIteration(TreeNode root) {
-        List<Integer> result = new ArrayList<Integer>();
+        List<Integer> result = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
 
         if (root == null) {
