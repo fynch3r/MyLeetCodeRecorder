@@ -3,7 +3,7 @@ package com.mlcr.easy._674;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-13 16:29
  **/
 

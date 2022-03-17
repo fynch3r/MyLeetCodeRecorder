@@ -3,7 +3,7 @@ package com.mlcr.easy._704;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/binary-search/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-13 17:02
  **/
 

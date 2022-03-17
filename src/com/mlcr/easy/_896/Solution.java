@@ -3,7 +3,7 @@ package com.mlcr.easy._896;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/monotonic-array/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-14 20:06
  **/
 

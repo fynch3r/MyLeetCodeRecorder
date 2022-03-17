@@ -3,7 +3,7 @@ package com.mlcr.easy._069;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/sqrtx/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 16:34
  **/
 

@@ -5,7 +5,7 @@ import sun.net.www.protocol.http.HttpURLConnection;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/same-tree/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 17:25
  **/
 

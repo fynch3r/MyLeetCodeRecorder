@@ -3,7 +3,7 @@ package com.mlcr.easy._495;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/teemo-attacking/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-09 16:19
  **/
 

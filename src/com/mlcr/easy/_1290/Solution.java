@@ -3,7 +3,7 @@ package com.mlcr.easy._1290;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 16:22
  **/
 

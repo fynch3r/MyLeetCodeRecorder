@@ -3,7 +3,7 @@ package com.mlcr.easy._434;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/number-of-segments-in-a-string/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 16:46
  **/
 

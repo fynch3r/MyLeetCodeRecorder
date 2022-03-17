@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/baseball-game/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 15:25
  **/
 

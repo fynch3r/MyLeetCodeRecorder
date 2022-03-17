@@ -3,7 +3,7 @@ package com.mlcr.easy._883;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-14 19:35
  **/
 

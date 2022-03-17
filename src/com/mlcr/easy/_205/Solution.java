@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/isomorphic-strings/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 13:57
  **/
 

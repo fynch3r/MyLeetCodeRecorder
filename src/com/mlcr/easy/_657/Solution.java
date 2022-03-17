@@ -3,7 +3,7 @@ package com.mlcr.easy._657;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/robot-return-to-origin/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 15:24
  **/
 

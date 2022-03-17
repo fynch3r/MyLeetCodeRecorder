@@ -7,7 +7,7 @@ import java.util.Queue;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/implement-stack-using-queues/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-09 19:32
  **/
 

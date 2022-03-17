@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 15:49
  **/
 

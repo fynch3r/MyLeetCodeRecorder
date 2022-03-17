@@ -1,9 +1,9 @@
-package com.mlcr.easy._007;
+package com.mlcr.number._007;
 
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/reverse-integer/
- * @author: 0range
+ * @author: fynch3r
  **/
 
 

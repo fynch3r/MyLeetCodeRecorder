@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/keyboard-row/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 11:36
  **/
 

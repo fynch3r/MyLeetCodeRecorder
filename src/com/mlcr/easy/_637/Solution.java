@@ -10,7 +10,7 @@ import java.util.Queue;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-12 15:39
  **/
 

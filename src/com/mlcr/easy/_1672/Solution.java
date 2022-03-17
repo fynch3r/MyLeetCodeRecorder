@@ -3,7 +3,7 @@ package com.mlcr.easy._1672;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/richest-customer-wealth/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 18:23
  **/
 

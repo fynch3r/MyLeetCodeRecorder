@@ -3,7 +3,7 @@ package com.mlcr.easy._409;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/longest-palindrome/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 16:25
  **/
 

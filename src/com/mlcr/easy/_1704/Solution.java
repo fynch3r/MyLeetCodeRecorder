@@ -3,7 +3,7 @@ package com.mlcr.easy._1704;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 18:34
  **/
 

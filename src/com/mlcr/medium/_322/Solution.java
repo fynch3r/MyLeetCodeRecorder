@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/coin-change/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-18 23:02
  **/
 

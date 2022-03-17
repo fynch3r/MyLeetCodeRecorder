@@ -3,7 +3,7 @@ package com.mlcr.easy._021;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/merge-two-sorted-lists/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 15:50
  **/
 

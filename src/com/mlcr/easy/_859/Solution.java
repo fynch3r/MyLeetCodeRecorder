@@ -3,7 +3,7 @@ package com.mlcr.easy._859;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/buddy-strings/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-14 16:25
  **/
 

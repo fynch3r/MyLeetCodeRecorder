@@ -3,7 +3,7 @@ package com.mlcr.easy._122;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 23:32
  **/
 

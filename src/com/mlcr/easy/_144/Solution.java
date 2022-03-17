@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 10:00
  **/
 

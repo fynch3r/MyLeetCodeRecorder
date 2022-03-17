@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 17:18
  **/
 

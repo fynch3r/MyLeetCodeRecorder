@@ -3,7 +3,7 @@ package com.mlcr.easy._1221;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 16:05
  **/
 

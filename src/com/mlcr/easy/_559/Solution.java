@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-12 20:53
  **/
 

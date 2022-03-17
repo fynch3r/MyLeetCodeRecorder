@@ -3,7 +3,7 @@ package com.mlcr.easy._171;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/excel-sheet-column-number/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 11:39
  **/
 

@@ -3,7 +3,7 @@ package com.mlcr.easy._1304;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 16:37
  **/
 

@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/word-pattern/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 15:10
  **/
 

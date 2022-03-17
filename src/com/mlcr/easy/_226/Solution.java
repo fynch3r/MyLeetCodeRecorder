@@ -3,7 +3,7 @@ package com.mlcr.easy._226;
 /**
  * @program: MyLeetCodeRecorder
  * @description:
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-09 14:09
  **/
 

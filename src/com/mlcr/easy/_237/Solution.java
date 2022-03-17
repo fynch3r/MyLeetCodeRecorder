@@ -3,7 +3,7 @@ package com.mlcr.easy._237;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 14:21
  **/
 

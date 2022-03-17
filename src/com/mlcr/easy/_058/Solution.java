@@ -3,7 +3,7 @@ package com.mlcr.easy._058;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/length-of-last-word/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 16:13
  **/
 

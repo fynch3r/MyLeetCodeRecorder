@@ -3,7 +3,7 @@ package com.mlcr.easy._1295;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 16:23
  **/
 

@@ -3,7 +3,7 @@ package com.mlcr.easy._1323;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/maximum-69-number/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 17:04
  **/
 

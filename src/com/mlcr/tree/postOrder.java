@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @program: MyLeetCodeRecorder
  * @description:
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-14 16:26
  **/
 

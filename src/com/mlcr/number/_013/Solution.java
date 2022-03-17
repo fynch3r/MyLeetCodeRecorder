@@ -1,4 +1,4 @@
-package com.mlcr.easy._013;
+package com.mlcr.number._013;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/roman-to-integer/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 15:46
  **/
 

@@ -3,7 +3,7 @@ package com.mlcr.easy._1700;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 18:33
  **/
 

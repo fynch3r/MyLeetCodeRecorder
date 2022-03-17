@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/unique-morse-code-words/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 15:40
  **/
 

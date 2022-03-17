@@ -3,7 +3,7 @@ package com.mlcr.easy._112;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/path-sum/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 19:21
  **/
 

@@ -3,7 +3,7 @@ package com.mlcr.easy._543;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/diameter-of-binary-tree/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-09 16:47
  **/
 

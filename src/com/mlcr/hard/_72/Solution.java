@@ -3,7 +3,7 @@ package com.mlcr.hard._72;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/edit-distance/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-19 21:01
  **/
 

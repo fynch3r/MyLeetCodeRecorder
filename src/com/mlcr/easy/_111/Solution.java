@@ -3,7 +3,7 @@ package com.mlcr.easy._111;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 19:04
  **/
 

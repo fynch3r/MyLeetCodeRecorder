@@ -3,7 +3,7 @@ package com.mlcr.easy._744;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-13 17:23
  **/
 

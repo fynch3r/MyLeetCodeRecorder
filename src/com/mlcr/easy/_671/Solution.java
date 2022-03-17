@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-12 16:44
  **/
 

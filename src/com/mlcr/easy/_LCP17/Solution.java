@@ -3,7 +3,7 @@ package com.mlcr.easy._LCP17;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/nGK0Fy/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 18:48
  **/
 

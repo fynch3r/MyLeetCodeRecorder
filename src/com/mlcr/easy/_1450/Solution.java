@@ -3,7 +3,7 @@ package com.mlcr.easy._1450;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 17:15
  **/
 

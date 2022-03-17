@@ -3,7 +3,7 @@ package com.mlcr.easy._053;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/maximum-subarray/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-10 15:54
  **/
 

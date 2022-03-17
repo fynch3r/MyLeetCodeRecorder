@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/find-pivot-index/solution/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-14 16:20
  **/
 

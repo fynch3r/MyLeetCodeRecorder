@@ -3,7 +3,7 @@ package com.mlcr.easy._125;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/valid-palindrome/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 00:03
  **/
 

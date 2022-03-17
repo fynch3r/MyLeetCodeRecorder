@@ -3,7 +3,7 @@ package com.mlcr.easy._190;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/reverse-bits/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 13:22
  **/
 

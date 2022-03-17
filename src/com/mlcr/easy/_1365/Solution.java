@@ -3,7 +3,7 @@ package com.mlcr.easy._1365;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 17:07
  **/
 

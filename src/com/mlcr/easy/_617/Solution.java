@@ -5,7 +5,7 @@ import javax.swing.tree.TreeNode;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/merge-two-binary-trees/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-12 15:31
  **/
 

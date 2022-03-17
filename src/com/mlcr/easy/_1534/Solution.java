@@ -3,7 +3,7 @@ package com.mlcr.easy._1534;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/count-good-triplets/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 17:41
  **/
 

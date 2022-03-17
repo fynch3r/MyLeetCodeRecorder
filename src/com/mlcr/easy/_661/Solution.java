@@ -3,7 +3,7 @@ package com.mlcr.easy._661;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/image-smoother/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 15:24
  **/
 

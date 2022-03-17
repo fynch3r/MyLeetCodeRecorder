@@ -3,7 +3,7 @@ package com.mlcr.easy._709;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/to-lower-case/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 15:31
  **/
 

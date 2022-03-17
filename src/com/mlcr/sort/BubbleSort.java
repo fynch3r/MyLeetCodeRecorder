@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @program: MyLeetCodeRecorder
  * @description:
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-17 16:07
  **/
 
@@ -26,7 +26,7 @@ public class BubbleSort {
      * @return
      */
     public static int[] bubbleSort(int[] array) {
-        for (int i = 0; i < array.length; i++) {
+        for (int i = 0; i < array.length - 1; i++) {
             for (int j = 0; j < array.length - i - 1; j++) {
                 if (array[j + 1] < array[j]) {
                     int temp = array[j + 1];

@@ -3,7 +3,7 @@ package com.mlcr.easy._1281;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
- * @author: 0range
+ * @author: fynch3r
  **/
 
 

@@ -3,7 +3,7 @@ package com.mlcr.easy._167;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 10:35
  **/
 

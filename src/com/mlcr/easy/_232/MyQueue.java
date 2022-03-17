@@ -7,7 +7,7 @@ import java.util.LinkedList;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/implement-queue-using-stacks/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-09 20:02
  **/
 

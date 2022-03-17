@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/contains-duplicate/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 14:10
  **/
 

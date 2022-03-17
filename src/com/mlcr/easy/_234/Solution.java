@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/palindrome-linked-list/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-09 14:30
  **/
 

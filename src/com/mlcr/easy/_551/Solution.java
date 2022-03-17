@@ -3,7 +3,7 @@ package com.mlcr.easy._551;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/student-attendance-record-i/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 14:11
  **/
 

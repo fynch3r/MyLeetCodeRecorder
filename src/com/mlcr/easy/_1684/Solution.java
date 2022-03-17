@@ -3,7 +3,7 @@ package com.mlcr.easy._1684;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 18:31
  **/
 

@@ -3,7 +3,7 @@ package com.mlcr.easy._876;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/middle-of-the-linked-list/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-14 19:19
  **/
 

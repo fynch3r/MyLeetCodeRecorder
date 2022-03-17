@@ -3,7 +3,7 @@ package com.mlcr.easy._Offer17;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-12 18:49
  **/
 

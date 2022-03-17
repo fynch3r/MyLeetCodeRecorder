@@ -3,7 +3,7 @@ package com.mlcr.easy._001;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/two-sum/
- * @author: 0range
+ * @author: fynch3r
  **/
 
 

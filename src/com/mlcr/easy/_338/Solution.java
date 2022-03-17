@@ -3,7 +3,7 @@ package com.mlcr.easy._338;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/counting-bits/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-09 15:36
  **/
 

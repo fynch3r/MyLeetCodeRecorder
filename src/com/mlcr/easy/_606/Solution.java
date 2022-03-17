@@ -3,7 +3,7 @@ package com.mlcr.easy._606;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/construct-string-from-binary-tree/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-12 15:17
  **/
 

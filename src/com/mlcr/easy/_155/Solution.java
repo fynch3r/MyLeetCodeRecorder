@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/min-stack/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 10:29
  **/
 

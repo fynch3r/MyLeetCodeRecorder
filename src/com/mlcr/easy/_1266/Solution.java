@@ -3,7 +3,7 @@ package com.mlcr.easy._1266;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/minimum-time-visiting-all-points/
- * @author: 0range
+ * @author: fynch3r
  **/
 
 

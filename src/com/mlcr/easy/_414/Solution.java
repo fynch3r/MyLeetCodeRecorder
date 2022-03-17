@@ -3,7 +3,7 @@ package com.mlcr.easy._414;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/third-maximum-number/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-06-11 16:45
  **/
 

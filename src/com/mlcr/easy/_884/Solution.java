@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * @program: MyLeetCodeRecorder
  * @description: https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-07-14 19:36
  **/
 
