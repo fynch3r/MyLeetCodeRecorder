@@ -57,7 +57,7 @@ public class inOrder {
             return result;
         }
 
-        while (root != null || !stack.isEmpty()) {
+        while (!stack.isEmpty() || root != null) {
             while (root != null) {
                 //压栈
                 stack.push(root);
@@ -65,11 +65,9 @@ public class inOrder {
                 root = root.left;
             }
             //左子树压到头 弹栈
-            if (!stack.isEmpty()) {
-                root = stack.pop();
-                result.add(root.val);
-                root = root.right;
-            }
+            root = stack.pop();
+            result.add(root.val);// 中
+            root = root.right; // 右
         }
         return result;
     }

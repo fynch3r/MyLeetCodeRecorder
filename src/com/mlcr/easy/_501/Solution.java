@@ -18,8 +18,4 @@ public class Solution {
             val = x;
         }
     }
-
-    public int[] finsMode(TreeNode root) {
-
-    }
 }

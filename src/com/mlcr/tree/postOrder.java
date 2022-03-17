@@ -1,7 +1,5 @@
 package com.mlcr.tree;
 
-import apple.laf.JRSUIUtils;
-
 import java.util.*;
 
 /**
@@ -84,21 +82,21 @@ public class postOrder {
 
     // 小trick
     // 前序遍历顺序根左右，压栈顺序是根右左
-    // 后序遍历顺序左右根，反过来就是根右左，可以让压栈顺序为根左右就可以了
+    // 后序遍历顺序左右根，反过来就是根右左，可以让压栈顺序为根左右,最后再颠倒就可以了
     public List<Integer> postOrderTrick(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
-        if(root == null) {
+        if (root == null) {
             return result;
         }
         stack.push(root);
-        while(!stack.isEmpty()){
+        while (!stack.isEmpty()) {
             TreeNode cur = stack.pop();
             result.add(cur.val);
-            if(cur.left!=null) {
+            if (cur.left != null) {
                 stack.push(cur.left);
             }
-            if(cur.right!=null) {
+            if (cur.right != null) {
                 stack.push(cur.right);
             }
         }
