@@ -7,6 +7,12 @@ package com.mlcr.easy._021;
  * @create: 2021-06-10 15:50
  **/
 
+/**
+ * 两个链表已经有序
+ * 递归：
+ * if(l1.val<=l2.val)，此时l1.next需要指向l1.next和l2之中更小的那个,返回l1, l1.next = merge(l1.next,l2)
+ * if(l1.val > l2.val), 此时l2更小，需要指向l1和l2.next之中更小的那个，返回l2，l2.next = merge(l1,l2.next)
+ */
 
 public class Solution {
 
