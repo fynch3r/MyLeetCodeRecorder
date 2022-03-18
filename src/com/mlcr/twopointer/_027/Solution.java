@@ -1,4 +1,4 @@
-package com.mlcr.easy._027;
+package com.mlcr.twopointer._027;
 
 /**
  * @program: MyLeetCodeRecorder
@@ -7,6 +7,9 @@ package com.mlcr.easy._027;
  * @create: 2021-06-10 15:52
  **/
 
+/**
+ * 同向双指针
+ */
 
 public class Solution {
 

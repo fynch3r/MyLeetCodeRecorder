@@ -1,4 +1,4 @@
-package com.mlcr.easy._026;
+package com.mlcr.twopointer._026;
 
 /**
  * @program: MyLeetCodeRecorder
@@ -7,19 +7,22 @@ package com.mlcr.easy._026;
  * @create: 2021-06-10 15:51
  **/
 
+/**
+ * 同向双指针
+ */
 
 public class Solution {
     public int removeDuplicates(int[] nums) {
-        if (nums.length == 0) {
+        if(nums.length == 0){
             return 0;
         }
-        int i = 0;
-        for (int j = 1; j < nums.length; j++) {
-            if (nums[j] != nums[i]) {
-                i++;
-                nums[i] = nums[j];
+        int slow = 0;
+        for(int fast = 1;fast<nums.length;fast++){
+            if(nums[fast] != nums[slow]){
+                slow++;
+                nums[slow] = nums[fast];
             }
         }
-        return i + 1;
+        return slow+1;
     }
 }
