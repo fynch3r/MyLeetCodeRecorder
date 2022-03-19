@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f409db-36de-4d94-abe8-011731c96262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mlcr/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/_053/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_021/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_021/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_026/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/twopointer/_026/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_027/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/twopointer/_027/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_028/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/twopointer/_028/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_035/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/easy/_035/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_053/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +57,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mlcr.dp" />
+      <recent name="com.mlcr.search" />
       <recent name="com.mlcr.twopointer" />
       <recent name="com.mlcr.linkedlist" />
       <recent name="com.mlcr.number" />
-      <recent name="com.mlcr.stack" />
     </key>
   </component>
   <component name="RunManager" selected="Application.InsertionSort">
@@ -107,13 +104,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,7 +133,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647488249719</updated>
-      <workItem from="1647488253106" duration="8773000" />
+      <workItem from="1647488253106" duration="9700000" />
+      <workItem from="1647658773428" duration="1391000" />
     </task>
     <servers />
   </component>
