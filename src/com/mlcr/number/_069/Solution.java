@@ -1,4 +1,4 @@
-package com.mlcr.easy._069;
+package com.mlcr.number._069;
 
 /**
  * @program: MyLeetCodeRecorder
