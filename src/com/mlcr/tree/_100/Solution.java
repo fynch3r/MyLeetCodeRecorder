@@ -1,10 +1,10 @@
-package com.mlcr.easy._101;
+package com.mlcr.tree._100;
 
 /**
  * @program: MyLeetCodeRecorder
- * @description: https://leetcode-cn.com/problems/symmetric-tree/
+ * @description: https://leetcode-cn.com/problems/same-tree/
  * @author: fynch3r
- * @create: 2021-06-10 17:29
+ * @create: 2021-06-10 17:25
  **/
 
 
@@ -28,22 +28,15 @@ public class Solution {
         }
     }
 
-    public boolean isSymmetric(TreeNode root) {
-        return check(root, root);
-    }
-
-    public boolean check(TreeNode p, TreeNode q) {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
         if (p == null && q == null) {
-            //到头了
             return true;
-        }
-        if (p == null || q == null) {
-            //有人缺项
+        } else if (p == null || q == null) {
             return false;
+        } else if (p.val != q.val) {
+            return false;
+        } else {
+            return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
         }
-        return p.val == q.val && check(p.left, q.right) && check(p.right, q.left);
     }
-
-
-
 }

@@ -1,4 +1,4 @@
-package com.mlcr.easy._083;
+package com.mlcr.linkedlist._083;
 
 /**
  * @program: MyLeetCodeRecorder

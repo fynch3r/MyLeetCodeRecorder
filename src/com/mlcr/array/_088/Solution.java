@@ -1,4 +1,4 @@
-package com.mlcr.easy._088;
+package com.mlcr.array._088;
 
 import java.util.Arrays;
 

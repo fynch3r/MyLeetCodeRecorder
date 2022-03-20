@@ -1,4 +1,4 @@
-package com.mlcr.easy._104;
+package com.mlcr.tree._104;
 
 /**
  * @program: MyLeetCodeRecorder

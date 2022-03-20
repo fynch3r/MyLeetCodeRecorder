@@ -3,10 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="58f409db-36de-4d94-abe8-011731c96262" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_058/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/string/_058/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_066/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/number/_066/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_067/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/number/_067/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_069/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/number/_069/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_070/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/_070/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_083/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_083/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_088/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/array/_088/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_094/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/_094/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_100/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/_100/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_101/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/_101/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_104/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/_104/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/easy/_108/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/easy/_108/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +63,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.mlcr.number" />
-      <recent name="com.mlcr.string" />
+      <recent name="com.mlcr.tree" />
+      <recent name="com.mlcr.array" />
+      <recent name="com.mlcr.linkedlist" />
       <recent name="com.mlcr.dp" />
-      <recent name="com.mlcr.search" />
-      <recent name="com.mlcr.twopointer" />
+      <recent name="com.mlcr.number" />
     </key>
   </component>
   <component name="RunManager" selected="Application.InsertionSort">
@@ -136,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647488249719</updated>
       <workItem from="1647488253106" duration="9700000" />
-      <workItem from="1647658773428" duration="2136000" />
+      <workItem from="1647658773428" duration="6217000" />
     </task>
     <servers />
   </component>
