@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @program: MyLeetCodeRecorder
- * @description: https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
+ * @description: https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/ n叉树前序遍历
  * @author: fynch3r
  * @create: 2021-07-10 18:26
  **/
