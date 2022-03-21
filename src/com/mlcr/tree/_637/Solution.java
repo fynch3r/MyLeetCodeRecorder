@@ -7,7 +7,7 @@ import java.util.Queue;
 
 /**
  * @program: MyLeetCodeRecorder
- * @description: https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/
+ * @description: https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/ 二叉树每层平均值
  * @author: fynch3r
  * @create: 2021-07-12 15:39
  **/
