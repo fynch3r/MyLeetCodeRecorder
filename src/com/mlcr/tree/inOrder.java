@@ -57,17 +57,20 @@ public class inOrder {
             return result;
         }
 
-        while (!stack.isEmpty() || root != null) {
+        while (root != null || !stack.isEmpty()) {
             while (root != null) {
                 //压栈
                 stack.push(root);
                 //循环找左子树
                 root = root.left;
             }
-            //左子树压到头 弹栈
-            root = stack.pop();
-            result.add(root.val);// 中
-            root = root.right; // 右
+            if(!stack.isEmpty()){
+                //左子树压到头 弹栈
+                root = stack.pop();
+                result.add(root.val);// 中
+                root = root.right; // 右
+            }
+
         }
         return result;
     }
