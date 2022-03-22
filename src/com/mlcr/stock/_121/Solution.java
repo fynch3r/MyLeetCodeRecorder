@@ -38,7 +38,6 @@ public class Solution {
             maxProfit = Math.max(maxProfit,dp[i]);
         }
         return maxProfit;
-
     }
 
 }
