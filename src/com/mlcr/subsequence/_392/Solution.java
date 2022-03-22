@@ -1,4 +1,4 @@
-package com.mlcr.twopointer._392;
+package com.mlcr.subsequence._392;
 
 /**
  * @program: MyLeetCodeRecorder
