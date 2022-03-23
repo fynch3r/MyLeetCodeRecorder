@@ -1,4 +1,4 @@
-package com.mlcr.dp._575;
+package com.mlcr.dp.easy._575;
 
 import java.util.HashSet;
 import java.util.Set;

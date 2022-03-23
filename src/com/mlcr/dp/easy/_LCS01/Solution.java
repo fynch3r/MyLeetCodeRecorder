@@ -1,4 +1,4 @@
-package com.mlcr.dp._LCS01;
+package com.mlcr.dp.easy._LCS01;
 
 /**
  * @program: MyLeetCodeRecorder

@@ -1,4 +1,4 @@
-package com.mlcr.dp._455;
+package com.mlcr.dp.easy._455;
 
 import java.util.Arrays;
 

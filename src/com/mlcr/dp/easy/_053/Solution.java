@@ -1,4 +1,4 @@
-package com.mlcr.dp._053;
+package com.mlcr.dp.easy._053;
 
 import java.util.ArrayList;
 import java.util.Arrays;
