@@ -18,7 +18,6 @@ public class Solution {
         int[] dp = new int[length];
         int start = 0;
         int end = 0;
-        List<Integer> list = new ArrayList<>();
         dp[0] = nums[0];
         int maxSum = nums[0];
         for(int i = 1; i < length; i++){

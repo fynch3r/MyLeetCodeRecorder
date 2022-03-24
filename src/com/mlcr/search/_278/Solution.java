@@ -16,7 +16,7 @@ public class Solution {
         int right = n;
         while (left < right) {
             int mid = (left + right) / 2;
-            if (isBadVersion(mid)) {
+            if (!isBadVersion(mid)) {
                 right = mid;
             } else {
                 left = mid + 1;
