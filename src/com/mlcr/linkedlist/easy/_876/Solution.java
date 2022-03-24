@@ -1,4 +1,4 @@
-package com.mlcr.linkedlist._876;
+package com.mlcr.linkedlist.easy._876;
 
 /**
  * @program: MyLeetCodeRecorder

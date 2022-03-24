@@ -12,25 +12,25 @@ public class Solution {
     public int minPathSum(int[][] grid) {
         int rowCount = grid.length;
         int columnCount = grid[0].length;
-        if(grid == null || rowCount == 0 || columnCount == 0){
+        if (grid == null || rowCount == 0 || columnCount == 0) {
             return 0;
         }
         int[][] dp = new int[rowCount][columnCount];
         dp[0][0] = grid[0][0];
         //行初始化
-        for(int i =1;i<columnCount;i++){
-            dp[0][i] = dp[0][i-1]+grid[0][i];
+        for (int i = 1; i < columnCount; i++) {
+            dp[0][i] = dp[0][i - 1] + grid[0][i];
         }
         //列初始化
-        for(int j = 1;j<rowCount;j++){
-            dp[j][0] = dp[j-1][0] + grid[j][0];
+        for (int j = 1; j < rowCount; j++) {
+            dp[j][0] = dp[j - 1][0] + grid[j][0];
         }
 
-        for(int i=1;i<rowCount;i++){
-            for(int j = 1;j<columnCount;j++){
-                dp[i][j] = Math.min(dp[i][j-1]+grid[i][j],dp[i-1][j]+grid[i][j]);
+        for (int i = 1; i < rowCount; i++) {
+            for (int j = 1; j < columnCount; j++) {
+                dp[i][j] = Math.min(dp[i][j - 1] + grid[i][j], dp[i - 1][j] + grid[i][j]);
             }
         }
-        return dp[rowCount-1][columnCount-1];
+        return dp[rowCount - 1][columnCount - 1];
     }
 }

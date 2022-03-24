@@ -1,4 +1,4 @@
-package com.mlcr.greedy._1710;
+package com.mlcr.greedy.easy._1710;
 
 import java.util.Arrays;
 

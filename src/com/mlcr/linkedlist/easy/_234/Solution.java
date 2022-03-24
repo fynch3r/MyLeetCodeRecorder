@@ -1,4 +1,4 @@
-package com.mlcr.linkedlist._234;
+package com.mlcr.linkedlist.easy._234;
 
 import java.util.ArrayList;
 import java.util.Stack;
@@ -102,4 +102,43 @@ public class Solution {
     //    }
     //    return prev;
     //}
+
+    //双指针
+    public boolean isPalindromeTwoPointer(ListNode head) {
+        ListNode slow = head,fast = head;
+        while(fast != null && fast.next != null){
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+        // 数组长度为奇数
+        if(fast!=null){
+            slow = slow.next;
+        }
+        //slow代表了链表后半部分的开始
+        slow = reverse(slow);
+        //fast移动到前半部分头节点
+        fast = head;
+        while(slow != null){
+            if(fast.val != slow.val){
+                return false;
+            }
+            slow = slow.next;
+            fast = fast.next;
+        }
+        return true;
+    }
+
+
+    public ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode curr = head;
+        ListNode next = null;
+        while (curr != null) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
 }

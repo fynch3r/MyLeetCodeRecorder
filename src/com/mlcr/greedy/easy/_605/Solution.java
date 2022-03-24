@@ -1,4 +1,4 @@
-package com.mlcr.greedy._605;
+package com.mlcr.greedy.easy._605;
 
 /**
  * @program: MyLeetCodeRecorder

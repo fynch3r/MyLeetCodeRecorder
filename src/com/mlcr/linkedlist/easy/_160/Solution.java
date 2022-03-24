@@ -1,4 +1,4 @@
-package com.mlcr.linkedlist._160;
+package com.mlcr.linkedlist.easy._160;
 
 import java.util.HashSet;
 import java.util.Set;

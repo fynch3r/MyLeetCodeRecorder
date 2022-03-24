@@ -2,22 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f409db-36de-4d94-abe8-011731c96262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_mst0801/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_mst1716/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_63/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_64/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_120/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_198/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_213/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_337/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_55/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_96/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/greedy/midium/_45/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/midium/_19/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_053/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_053/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_070/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_070/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_1137/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_1137/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_1480/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_1480/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_453/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_453/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_455/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_455/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_509/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_509/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_575/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_575/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_62/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_62/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_746/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_746/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/_LCS01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_LCS01/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_mst1716/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_mst1716/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_64/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_64/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/greedy/_1710/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/greedy/easy/_1710/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/greedy/_605/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/greedy/easy/_605/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_021/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_021/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_083/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_083/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_141/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_141/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_160/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_160/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_203/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_203/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_206/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_206/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_234/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_234/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_237/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_237/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mlcr/linkedlist/_876/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/linkedlist/easy/_876/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +70,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.110375285" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
@@ -73,11 +79,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mlcr.linkedlist.easy" />
       <recent name="com.mlcr.dp.easy" />
       <recent name="com.mlcr.subsequence" />
       <recent name="com.mlcr.number" />
       <recent name="com.mlcr.plan" />
-      <recent name="com.mlcr.array" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Test">
@@ -164,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647488249719</updated>
       <workItem from="1647488253106" duration="9700000" />
-      <workItem from="1647658773428" duration="78912000" />
+      <workItem from="1647658773428" duration="95108000" />
     </task>
     <servers />
   </component>
