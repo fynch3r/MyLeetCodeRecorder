@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58f409db-36de-4d94-abe8-011731c96262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mlcr/tree/midium/_98/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mlcr/dp/midium/_740/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/array/_088/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/array/_088/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_053/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/dp/easy/_053/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/search/_278/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/search/_278/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_094/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_094/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_100/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_100/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_101/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_101/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_104/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_104/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_108/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_108/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_110/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_110/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_111/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_111/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_112/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_112/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_144/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_144/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_145/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_145/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_226/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_226/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_235/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_235/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_257/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_257/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_404/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_404/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_501/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_501/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_543/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_543/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_559/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_559/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_563/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_563/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_589/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_589/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_590/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_590/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_606/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_606/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_617/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_617/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_637/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_637/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_671/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_671/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mlcr/tree/_872/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mlcr/tree/easy/_872/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,15 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -181,7 +151,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647488249719</updated>
       <workItem from="1647488253106" duration="9700000" />
-      <workItem from="1647658773428" duration="100159000" />
+      <workItem from="1647658773428" duration="100864000" />
+      <workItem from="1648170436599" duration="646000" />
     </task>
     <servers />
   </component>
