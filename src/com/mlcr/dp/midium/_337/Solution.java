@@ -2,7 +2,7 @@ package com.mlcr.dp.midium._337;
 
 /**
  * @program: MyLeetCodeRecorder
- * @description: https://leetcode-cn.com/problems/house-robber-iii/
+ * @description: https://leetcode-cn.com/problems/house-robber-iii/ 打家劫舍3 树
  * @author: fynch3r
  * @create: 2022-03-23 19:52
  **/
