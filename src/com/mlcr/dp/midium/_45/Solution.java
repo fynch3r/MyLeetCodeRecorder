@@ -16,8 +16,8 @@ public class Solution {
         int step = 0;
         for(int i = 0; i < len-1; i++) {
             rightMax  = Math.max(i+nums[i],rightMax);
-            if(i == board){
-                board = rightMax; // 到达上个边界了，说明需要更新边界；
+            if(i == board){//当前边界到头了
+                board = rightMax; // 更新边界，下一个边界是rightMax
                 step++;
             }
         }
